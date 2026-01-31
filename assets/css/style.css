@@ -63,8 +63,8 @@ body {
   font-family: var(--evator-base-font);
   --evator-base-font: "Open Sans", sans-serif;
   --evator-heading-font: "Montserrat", sans-serif;
-  --evator-primary-color: #37c6f4;
-  --evator-secondary-color: #37c6f4;
+  --evator-primary-color: #7b3e21;
+  --evator-secondary-color:#7b3e21;
   --evator-heading-color: #01030B;
   --evator-base-color: #0F0E0E;
   --evator-lighter-color: #F9F9F9;
@@ -4112,10 +4112,10 @@ h6, .h6 {
     height: 100%;
     z-index: -1;
     opacity: 0.74;
-    background: -webkit-gradient(linear, left top, right top, color-stop(15%, #2A07F9), color-stop(48.16%, #0D0648), color-stop(86.84%, #2A14E9));
-    background: -webkit-linear-gradient(left, #2A07F9 15%, #0D0648 48.16%, #2A14E9 86.84%);
-    background: -o-linear-gradient(left, #2A07F9 15%, #0D0648 48.16%, #2A14E9 86.84%);
-    background: linear-gradient(90deg, #2A07F9 15%, #0D0648 48.16%, #2A14E9 86.84%); }
+    background: -webkit-gradient(linear, left top, right top, color-stop(15%, #7b3e21), color-stop(48.16%, #090400), color-stop(86.84%, #7b3e21));
+    background: -webkit-linear-gradient(left, #7b3e21 15%, #090400 48.16%, #7b3e21 86.84%);
+    background: -o-linear-gradient(left, #7b3e21 15%, #090400 48.16%, #7b3e21 86.84%);
+    background: linear-gradient(90deg, #7b3e21 15%, #090400 48.16%, #7b3e21 86.84%); }
 
 .banner-inner .page-title {
   margin-bottom: 15px; }
@@ -6988,7 +6988,7 @@ blockquote {
   .pricing-plan-item.style-two {
     border: none;
     border-radius: 8px;
-    --evator-primary-color: #FF2883; }
+    --evator-primary-color:#7b3e21; }
     .pricing-plan-item.style-two:not(:hover) {
       background: white; }
   .pricing-plan-item.style-three {
